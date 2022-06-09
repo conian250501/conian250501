@@ -1,6 +1,6 @@
 <h1 align="center">👋 Welcome to my Github</h1>
 <h2 align="center"> My name's Minh Tai </h2>
-<h3 align="center">As a creative, logical thinker and skilled in graphic software and programming languages, I will solve your problems</h3>
+<h3 align="left">As a creative, logical thinker and skilled in graphic software and programming languages, I will solve your problems</h3>
 <img align="right" alt="img-code" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=conian250501&label=Profile%20views&color=0e75b6&style=flat" alt="conian250501" /> </p>
@@ -10,9 +10,7 @@
 - 🌱 I’m currently learning **ReactJS, NodeJS,...**
 
 - 👨‍💻 All of my projects are available at [https://conianguys.vercel.app](https://conianguys.vercel.app)
-
-- 💬 Ask me about **react,htmlm,c**
-
+- 
 - 📫 How to reach me **minhtai250501@gmail.com**
 
 - 📄 Know about my experiences [https://www.topcv.vn/xem-cv/CABaVQNbW1xUBVEGAFVXUVQODw8EAgRdDwRcDA47e3](https://www.topcv.vn/xem-cv/CABaVQNbW1xUBVEGAFVXUVQODw8EAgRdDwRcDA47e3)
