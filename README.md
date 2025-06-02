@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tyler Tran</h1>
+<h1 align="center">Hi 👋, I'm Whittaker</h1>
 <h3 align="center"> 📂 A FullStack Developer from VietNam</h3>
 
 - 🔭 I’m currently working on [TrySomeThign's System](https://trysomethign-blog-fe.vercel.app/)
